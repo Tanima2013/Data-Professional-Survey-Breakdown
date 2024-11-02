@@ -3,7 +3,7 @@
 This report presents findings from a survey of 630 data professionals, with insights into demographics, job satisfaction, salary distribution, and entry challenges within the data industry. The analysis addresses key questions regarding participant demographics, average salaries across professions, preferred programming languages, the ease of entering the field, and overall job and salary satisfaction.
 
 <h3>Data Cleaning and Preparation</h3>
-[View Raw Dataset](https://github.com/Tanima2013/Data-Professional-Survey-Breakdown/blob/main/Project_Dataset.xlsx)
+[View Raw Dataset](blob/main/Project_Dataset.xlsx)
 
 To ensure accurate analysis and insights, the data was first cleaned and transformed using Power Query. The following steps were taken to make the data usable for this report:
 
