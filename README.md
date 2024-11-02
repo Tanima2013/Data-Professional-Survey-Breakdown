@@ -42,7 +42,7 @@ The average satisfaction with work is 5.74 out of 10, while satisfaction with sa
 <h3>Insights</h3>
 
 <h4>1. Geographic Distribution:</h4>
-The United States and India are the largest contributors to the survey, followed by other countries, reflecting a strong global community of data professionals.
+The United States is the largest contributors to the survey, followed by other countries, reflecting a strong global community of data professionals.
 
 <h4>2. Average Salary by Profession:</h4>
 Data Scientists earn the highest average salary among the roles surveyed. Other positions, such as Data Engineers, Data Architects, and Data Analysts, have varied but generally lower salary averages, reflecting differences in roles and responsibilities.
