@@ -3,7 +3,8 @@
 This report presents findings from a survey of 630 data professionals, with insights into demographics, job satisfaction, salary distribution, and entry challenges within the data industry. The analysis addresses key questions regarding participant demographics, average salaries across professions, preferred programming languages, the ease of entering the field, and overall job and salary satisfaction.
 
 <h3>Data Cleaning and Preparation</h3>
-View Raw Dataset: 
+[View Raw Dataset](Project_Dataset.xlsx)
+
 To ensure accurate analysis and insights, the data was first cleaned and transformed using Power Query. The following steps were taken to make the data usable for this report:
 
 <h4>1. Removal of Empty Columns:</h4>
@@ -13,17 +14,17 @@ Columns with empty values were identified and removed to streamline the dataset 
 Some entries had salary information represented as ranges (e.g., "$50,000 - $60,000"). To standardize this, the average salary was calculated for each range, and a new column titled "Average Salary" was created to store these values. This enabled a more precise analysis of salary trends across professions.
 
 <h4>3. Standardizing "Other" Values in Categorical Columns:</h4>
-Certain columns contained various entries labeled with different variations of "Other" (e.g., "Others," "Other options"). These entries were standardized by consolidating them into a single "Other" category. This was achieved using the split column function, allowing for a clearer and more organized representation of categorical data.
+Certain columns contained various entries labeled with different variations of "Other". These entries were standardized by consolidating them into a single "Other" category. This was achieved using the split column function, allowing for a clearer and more organized representation of categorical data.
 These data cleaning steps ensured consistency and accuracy in the dataset, providing a solid foundation for further analysis and insights.
 
-<h3>Dashboard:</h3>
-<br>
+<h3>Dashboard:</h3><br>
+
 ![Alt text](Dashboard.JPG)
 <br>
 <h3>Key Questions (KPIs)</h3>
 
 <h4>1. What is the demographic breakdown of survey participants?</h4>
-The participants primarily come from the United States and India, followed by the United Kingdom, Canada, and other countries, showing a diverse international representation.
+The participants primarily come from the United States, followed by the United Kingdom, Canada, India and other countries, showing a diverse international representation.
 
 <h4>2. What is the average salary by profession within the data field?</h4>
 Among data professions, Data Scientists report the highest average salaries, followed by Data Engineers, Data Architects, and Data Analysts, highlighting the salary variations within different roles in the data industry.
