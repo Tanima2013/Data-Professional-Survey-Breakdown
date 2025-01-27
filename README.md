@@ -5,6 +5,7 @@ This report presents findings from a survey of 630 data professionals, with insi
 <h3>Data Cleaning and Preparation</h3>
 
 [View Raw Dataset](./Project_Dataset.xlsx)
+
 [Dataset Link](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
 
 To ensure accurate analysis and insights, the data was first cleaned and transformed using Power Query. The following steps were taken to make the data usable for this report:
